@@ -1,0 +1,52 @@
+
+
+.black{
+position: relative;
+width: 683px;
+height: 625px;
+
+top: 0px;
+background: #000000;
+}
+.black p{
+position: absolute;
+width: 235px;
+height: 128px;
+left: 165px;
+top: 214px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 64px;
+letter-spacing: 0.1em;
+
+color: #FFFFFF;
+}
+.white{
+position: absolute;
+width: 683px;
+height: 600px;
+top: 0px;
+
+background: #F7F5EB;
+}
+.white p{
+position: absolute;
+width: 265px;
+height: 128px;
+left: 850px;
+top: 211px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 64px;
+text-align: right;
+letter-spacing: 0.1em;
+
+color: #000000;
+
+}
